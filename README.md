@@ -98,9 +98,8 @@
 
 ## 결과물
 
-* **발표자료:** [weather_forecasting_competition_presentation.pdf](./results/weather_forecasting_competition_presentation.pdf)  
-* **보고서:** [weather_forecasting_competition_report.pdf](./results/weather_forecasting_competition_report.pdf)
-
+* [프레젠테이션](results/weather_big_data_competition_presentation.pdf)
+* [프로젝트 보고서](results/weather_big_data_competition_report.pdf)
 
 ---
 
